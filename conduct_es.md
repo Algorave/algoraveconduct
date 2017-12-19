@@ -5,7 +5,7 @@ Se requiere a todos los participantes de Algorave estar de acuerdo con el siguie
 Algorave debe ser un evento inclusivo y seguro para performers, organizadores y asistentes. Por esta razón hemos establecido un código de conducta claro que define de manera precisa las expectativas que tenemos de todos los participantes. Este código aplica también para cualquier evento social relacionado con Algorave y se extiende a las comunidades y el discurso en línea.  
 Para información más detallada de por qué es necesario un código de conducta visita el siguiente enlace: http://www.ashedryden.com/blog/codes-of-conduct-101-faq
 
-## La versión corta
+## La versión corta
 Algorave está dedicado a ofrecer una experiencia libre de acoso para todos, sin importar su género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de la misma) o elecciones tecnológicas. No toleramos ninguna clase de acoso hacia performers, miembros de la audiencia, staff y voluntarios. El lenguaje y las imágenes sexuales no son apropiadas para un Algorave; esto incluye desde el audio y los visuales de las performances hasta la retroalimentación y discusión en persona o en línea. Los participantes de Algorave que no cumplan con estas reglas serán sancionados o expulsados del evento sin reembolso a discreción de los organizadores.
 
 ## La versión menos corta
