@@ -6,6 +6,12 @@ Where specified, all participants at Algorave events, including attendees, perfo
 
 To meet our aim to make inclusive, safe events, we have outlined expectations of participants. This code applies to Algorave, any related social events and online communities around it. For more information on codes of conduct and why they are neccessary, see http://www.ashedryden.com/blog/codes-of-conduct-101-faq
 
+## Inclusion
+
+Please remember that at an Algorave you will have a group with mixed genders, beliefs, technologies, backgrounds, sexualities and so on.
+
+In all communitcation - whether that be when promoting the event, addressing performers or your audience, try to use inclusive language, e.g. remember that ‘guys’ is not a gender-neutral term in many parts of the world, try not to address a mixed group with that. 
+
 ## The Short Version
 
 We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. This applies both in person or via online media.
