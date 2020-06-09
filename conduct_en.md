@@ -10,7 +10,7 @@ To meet our aim to make inclusive, safe events, we have outlined expectations of
 
 Please remember that at an Algorave you will have a group with mixed genders, beliefs, technologies, backgrounds, sexualities and so on.
 
-In all communitcation - whether that be when promoting the event, addressing performers or your audience, try to use inclusive language, e.g. remember that ‘guys’ is not a gender-neutral term in many parts of the world, try not to address a mixed group with that. 
+In all communication - whether that be when promoting the event, addressing performers or your audience, try to use inclusive language, e.g. remember that ‘guys’ is not a gender-neutral term in many parts of the world, try not to address a mixed group with that. 
 
 ## The Short Version
 
