@@ -14,11 +14,11 @@ In all communication - whether that be when promoting the event, addressing perf
 
 ## The Short Version
 
-We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. This applies both in person or via online media.
+We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, national original, immigration status, religion (or lack thereof), or technology choices. This applies both in person or via online media.
 
 ## The Less Short Version
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, deliberate intimidation, stalking, following,  disruption of performances, inappropriate physical contact, and unwelcome sexual attention. 
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, national original, immigration status, religion, technology choices, deliberate intimidation, stalking, following,  disruption of performances, inappropriate physical contact, and unwelcome sexual attention. 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organiser immediately. Algorave organisers will try to be present at all times - additionally, venue staff (where possible/appropriate) will be briefed on this code and can act on the organisers behalf.
 
